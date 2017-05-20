@@ -22,6 +22,6 @@ Seperated status verbs to positive verbs and nagetive verbs according to the sen
 
 ## The Correlation of Stock Price Index and Sentimental Score
 Computed the cosine similarity of stock price index and sentimental score to prove there is a strong correlation. The result shows that the cosine similarity between tock price index and sentimental score is 0.985. Also, used Tableau to draw the trend line to show its similarity.
-![alt text](https://raw.githubusercontent.com/eric80116/SAonFinancialArticles/correlation_graph.png)
+![image](https://github.com/eric80116/SAonFinancialArticles/blob/master/correlation_graph.png)
 
 
